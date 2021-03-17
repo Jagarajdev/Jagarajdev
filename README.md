@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jagarajdev
-- 👀 I’m interested in Web development/Mobile Development/
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Jagarajdev,31
+- 👀 I’m interested in Web development/Mobile Development/ML/AI
+- 🌱 I’m currently learning Web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
